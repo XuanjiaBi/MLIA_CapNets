@@ -7,5 +7,5 @@ Eric Bi<br>
 Leonardo Anselmo<br>
 John Lilly <br>
 ## Installations
-git clone https://github.com/XuanjiaBi/MLIA_CapNets.git
+git clone https://github.com/XuanjiaBi/MLIA_CapNets.git <br>
 pip3 install -r requirements.txt <br>

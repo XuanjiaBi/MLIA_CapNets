@@ -7,5 +7,5 @@ Eric Bi<br>
 Leonardo Anselmo<br>
 John Lilly <br>
 ## Installations
-git clone https://github.com/EscVM/Efficient-CapsNet.git <br>
+git clone https://github.com/XuanjiaBi/MLIA_CapNets.git
 pip3 install -r requirements.txt <br>
